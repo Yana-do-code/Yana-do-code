@@ -34,18 +34,20 @@ Building clean, fast, and scalable web interfaces.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
 
 **Core Subjects:**  
 DBMS • Data Structures • Operating Systems • Computer Networks
 
+
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yana-do-code&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Yana-do-code&show_icons=true&theme=tokyonight" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yana-do-code&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Yana-do-code&theme=tokyonight" />
 
 ---
 
