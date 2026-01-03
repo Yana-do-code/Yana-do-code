@@ -43,14 +43,15 @@ DBMS • Data Structures • Operating Systems • Computer Networks
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yana-do-code&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yana-do-code&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Graph
-![snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Yana-do-code/Yana-do-code/output/github-contribution-grid-snake.svg)
+
 
 ---
 
