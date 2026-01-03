@@ -29,6 +29,15 @@ Building clean, fast, and scalable web interfaces.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
+## 💻 Languages & Core CS
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
+
+**Core Subjects:**  
+DBMS • Data Structures • Operating Systems • Computer Networks
 
 ---
 
