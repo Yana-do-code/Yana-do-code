@@ -7,8 +7,8 @@ Building clean, fast, and scalable web interfaces.
 
 ## 👩‍💻 About Me
 - 🎓 Computer Science student
-- 💻 Focused on modern frontend and backend development
-- 🌱 Currently improving UI architecture & performance
+- 💻 Focused on modern frontend with full-stack fundamentals
+- 🌱 Improving UI architecture, performance & best practices
 - 🚀 Interested in real-world projects & open source
 - ✨ I enjoy turning ideas into polished interfaces
 
@@ -29,8 +29,8 @@ Building clean, fast, and scalable web interfaces.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
-## 💻 Languages & Core CS
 
+## 💻 Languages & Core CS
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -40,20 +40,17 @@ Building clean, fast, and scalable web interfaces.
 **Core Subjects:**  
 DBMS • Data Structures • Operating Systems • Computer Networks
 
-
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yana-do-code&show_icons=true&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=Yana-do-code&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yana-do-code&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Yana-do-code&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 🐍 Contribution Graph
 ![snake animation](https://raw.githubusercontent.com/Yana-do-code/Yana-do-code/output/github-contribution-grid-snake.svg)
-
-
----
-
