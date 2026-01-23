@@ -25,6 +25,7 @@ Building clean, fast, and scalable web interfaces.
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
@@ -42,15 +43,6 @@ DBMS • Data Structures • Operating Systems • Computer Networks
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yana-do-code&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Yana-do-code&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
 
 ## 🐍 Contribution Graph
 ![snake animation](https://raw.githubusercontent.com/Yana-do-code/Yana-do-code/output/github-contribution-grid-snake.svg)
