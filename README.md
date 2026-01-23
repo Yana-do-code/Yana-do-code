@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yana
 
-**Frontend Developer | React • Next.js • TypeScript**  
+**Full Stack Web Developer**  
 Building clean, fast, and scalable web interfaces.
 
 ---
