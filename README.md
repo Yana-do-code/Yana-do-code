@@ -47,8 +47,5 @@ DBMS • Data Structures • Operating Systems • Computer Networks
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yana-do-code&theme=github-dark&hide_border=true)
 
-## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yana-do-code&layout=compact&theme=github-dark&hide_border=true)
-
 ## 🐍 Contribution Graph
 ![snake animation](https://raw.githubusercontent.com/Yana-do-code/Yana-do-code/output/github-contribution-grid-snake.svg)
