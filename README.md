@@ -44,8 +44,9 @@ Building clean, fast, and scalable web interfaces.
 DBMS • Data Structures • Operating Systems • Computer Networks
 
 ---
+
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Yana-do-code&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yana-do-code&theme=github-dark&hide_border=true&v=2)
 
 ## 🐍 Contribution Graph
 ![snake animation](https://raw.githubusercontent.com/Yana-do-code/Yana-do-code/output/github-contribution-grid-snake.svg)
